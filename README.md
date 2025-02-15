@@ -1,6 +1,6 @@
 # Crypto-plus
 
-[Live Demo](https://crypto-plus-rose.vercel.app/coin/bitcoin) | [GitHub Repository](https://github.com/rushikesh5035/Crypto-plus/)
+[Live](https://crypto-plus-rose.vercel.app/) | [GitHub Repository](https://github.com/rushikesh5035/Crypto-plus/)
 
 A React.js application to track real-time cryptocurrency prices, using the CoinGecko API for fetching live data.
 
