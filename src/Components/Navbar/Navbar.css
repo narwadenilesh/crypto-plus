@@ -11,6 +11,10 @@
   width: max(12vw, 120);
 }
 
+.navbar h2 {
+  color: white;
+}
+
 .navbar ul {
   display: flex;
   gap: 40px;

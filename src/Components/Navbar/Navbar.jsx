@@ -1,5 +1,7 @@
 import React, { useContext } from "react";
 import "./Navbar.css";
+import crypto_logo_white from "../../assets/crypto_logo_white.png";
+
 import { CoinContext } from "../../context/CoinContext";
 import { Link } from "react-router-dom";
 const Navbar = () => {
@@ -26,7 +28,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <Link to={"/"}>
-        <h1>CryptoPulse </h1>
+        <h2>CryptoPulse </h2>
       </Link>
 
       <div className="nav-right">
